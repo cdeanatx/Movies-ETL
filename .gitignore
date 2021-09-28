@@ -133,3 +133,6 @@ dmypy.json
 
 # JSONs
 *.json
+
+# Markdown for testing
+competing_columns.md
