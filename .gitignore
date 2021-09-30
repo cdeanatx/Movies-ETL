@@ -129,10 +129,7 @@ dmypy.json
 .pyre/
 
 # CSVs
-*.csv
-
-# JSONs
-*.json
+ratings.csv
 
 # Markdown for testing
 competing_columns.md
